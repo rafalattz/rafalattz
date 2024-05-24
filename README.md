@@ -2,9 +2,9 @@
 
 Meu nome é Rafael 
 
--estou estudando no Alura
--estou me desenvolvendo na linguagem JavaScript
--utilizo este espaço para minha organização e compartilhamnto dos meus projetos desenvolvidos 
+-Estou estudando no Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo este espaço para minha organização e compartilhamnto dos meus projetos desenvolvidos 
 ### Voce pode estrar em contago comigo📫
 
 00001105907958sp@al.educacao.sp.gov.br
